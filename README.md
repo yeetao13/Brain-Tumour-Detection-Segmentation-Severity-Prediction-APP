@@ -11,4 +11,4 @@ Note:
 - `xception.h5` file is not included in the repo as the file size is too large
 - Create a virtual environment and install python with version 310
 - python must be version 310 (Python 3.10.2) to run the Streamlit web application
-- pip install -r requirements.txt
+- `pip install -r requirements.txt`
