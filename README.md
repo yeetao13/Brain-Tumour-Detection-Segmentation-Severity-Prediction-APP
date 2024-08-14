@@ -15,8 +15,8 @@ This project is designed to detect, segment, and predict the severity of brain t
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yeetao13/compare-llm.git
-cd llm-comparison-app
+git clone https://github.com/yeetao13/Brain-Tumour-Detection-Segmentation-Severity-Prediction-APP.git
+cd Brain-Tumour-Detection-Segmentation-Severity-Prediction-APP
 ```
 ### 2. Set Up a Virtual Environment
 
