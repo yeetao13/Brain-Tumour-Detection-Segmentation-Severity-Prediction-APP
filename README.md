@@ -63,3 +63,4 @@ Note:
 - scaler_before.pkl: The scaler of SVM model (Before SMOTE)
 - app.py: The source code of web application
 - requirements.txt: The required libraries to run the web application
+- Training scripts are not provided in this repo
